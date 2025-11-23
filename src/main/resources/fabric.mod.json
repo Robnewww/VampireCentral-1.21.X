@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "vampirecentral",
+	"version": "${version}",
+	"name": "Vampire Central",
+	"description": "Adds vampire oriented equipment using Spell Engine.",
+	"authors": [
+		"Robnew"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "All Rights Reserved",
+	"icon": "assets/vampirecentral/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.robnew.vampirecentral.VampireCentral"
+		],
+		"fabric-datagen": [
+			"net.robnew.vampirecentral.VampireCentralDataGenerator"
+		],
+        "client": [
+          "net.robnew.vampirecentral.VampireCentralClient"
+        ]
+	},
+	"mixins": [
+		"vampirecentral.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.1",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
