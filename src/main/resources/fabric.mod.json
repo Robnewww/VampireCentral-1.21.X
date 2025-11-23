@@ -9,9 +9,9 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Robnewww/VampireCentral-1.21.X"
 	},
-	"license": "All Rights Reserved",
+	"license": "CC BY-SA 4.0",
 	"icon": "assets/vampirecentral/icon.png",
 	"environment": "*",
 	"entrypoints": {
