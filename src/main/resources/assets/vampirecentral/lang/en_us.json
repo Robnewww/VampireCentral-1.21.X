@@ -1,4 +1,10 @@
 {
   "item.vampirecentral.silver_ingot": "Silver Ingot",
-  "item.vampirecentral.raw_silver": "Raw Silver"
+  "item.vampirecentral.raw_silver": "Raw Silver",
+
+  "itemgroup.vampirecentral.items_group": "Vampire Central Items",
+
+  "block.vampirecentral.silver_ore": "Silver Ore",
+  "block.vampirecentral.raw_silver_block": "Block of Raw Silver",
+  "block.vampirecentral.silver_block": "Block of Silver"
 }
