@@ -10,7 +10,7 @@ Vampire Central
 
 > I have no idea what I'm doing!
 
-Vampire Central a mod that supposedly adds Vampire & Vampire Hunting equipment.
+Vampire Central is a mod that supposedly adds Vampire & Vampire Hunting equipment.
 
 ## License
 This work is licensed under a
